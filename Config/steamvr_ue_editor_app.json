@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.third-person-bp-game-template-17735300.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/ceco9/Downloads/EastGateOfStratholme_V1.02/EastGateOfStratholme/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Third Person BP Game Template-17735300 [UE Editor]"
+				}
+			}
+		}
+	]
+}
